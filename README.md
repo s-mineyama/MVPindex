@@ -1,3 +1,5 @@
+<img src="https://yumeland.org/static/images/mvp2.png" alt="MVPindex" width="80%">
+
 # MVPindex
 
 This is the original spreadsheet from which I calculated MVP indexes.
@@ -9,6 +11,8 @@ This is the original spreadsheet from which I calculated MVP indexes.
 Mineyama(https://yumeland.org/en/profile)
 
 峰山(https://yumeland.org/profile)
+
+@MineyamaS
 
 # Usage
 
@@ -25,6 +29,12 @@ If you do so, Google will act as an antivirus software for you.
 開いてみてください。
 
 Googleがウィルス対策ソフトを代行してくれます)
+
+# Details
+
+Think MVP simpler(https://yumeland.org/en/p/2022/0907)
+
+MVPをシンプルに考える(https://yumeland.org/p/2022/0907)
 
 # License
 
