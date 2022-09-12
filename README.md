@@ -1,4 +1,4 @@
-<img src="https://yumeland.org/static/images/mvp2.png" alt="MVPindex" width="80%">
+<img src="https://yumeland.org/static/images/mvp2.png" alt="MVPindex" width="90%">
 
 # MVPindex
 
