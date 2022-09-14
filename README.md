@@ -1,4 +1,4 @@
-<img src="https://yumeland.org/static/images/mvp2.png" alt="MVPindex" width="90%">
+<img src="https://yumeland.org/static/images/mvp2.png" alt="MVPindex" width="95%">
 
 # MVPindex
 
@@ -34,7 +34,17 @@ Googleがウィルス対策ソフトを代行してくれます)
 
 Think MVP simpler(https://yumeland.org/en/p/2022/0907)
 
+Judge made history as a hitter,
+Ohtani is making history with his throw-and-hit dual wielding.
+They say they don't know how to compare the two.
+So I created an index to compare against past MVP player achievements.
+
 MVPをシンプルに考える(https://yumeland.org/p/2022/0907)
+
+ジャッジは打者として歴史的な成績をあげ、
+大谷は投打二刀流で歴史をつくっている。
+二人をどう比べていいかわからないという。
+それで、過去のMVPプレイヤーの達成度と比べる指標を作った。
 
 # License
 
