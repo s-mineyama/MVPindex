@@ -1,10 +1,12 @@
 <img src="https://yumeland.org/static/images/mvp2.png" alt="MVPindex" width="95%">
 
-# MVPindex
+# MVPindex Ver.2
 
 This is the original spreadsheet from which I calculated MVP indexes.
+I corrected the inequality between pitchers and hitters in Ver.2.
 
-(MLB の MVP指数作成の元になるスプレッドシートです)
+(MLB の MVP指数作成の元になるスプレッドシートです。
+Ver.2 では投手と打者の不平等を是正しました)
 
 # Author
 
