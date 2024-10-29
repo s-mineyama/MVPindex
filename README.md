@@ -1,4 +1,4 @@
-<img src="https://yumeland.org/static/images/mvpindex2.png?renew" alt="MVPindex2" width="95%">
+<img src="https://yumeland.org/assets/images/mvpindex2.png?renew" alt="MVPindex2" width="95%">
 
 # MVPindex Ver.2
 
